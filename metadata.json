@@ -1,0 +1,8 @@
+{
+  "name": "Smart Workforce Manager",
+  "description": "A comprehensive attendance, payroll, and expense management PWA for multi-project environments.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
